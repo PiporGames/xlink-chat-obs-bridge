@@ -1,8 +1,9 @@
 # XLink Chat OBS Bridge
 
-i> English README: [README_en.md](README_en.md)
+> [!TIP]
+> English README: [README_en.md](README_en.md)
 
-Este proyecto permite capturar mensajes del chat de XLink Kai desde el navegador y mostrarlos en OBS Studio como texto superpuesto con captura automática.
+Este proyecto permite capturar mensajes del chat de XLink Kai desde el navegador y mostrarlos en OBS Studio como texto superpuesto con captura automática.  
 
 ## Funcionamiento
 
