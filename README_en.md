@@ -90,3 +90,6 @@ You don't need to click anything, the extension detects the chat and starts capt
 - Messages are stored only in memory (lost when closing OBS)
 - They are automatically cleared when restarting OBS and connecting it with the browser extension
 
+#### Responsible Use of AI
+
+> This project has been built entirely using artificial intelligence, being supervised and controlled by real humans.

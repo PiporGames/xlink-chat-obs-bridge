@@ -90,3 +90,6 @@ No necesitas hacer clic en nada, la extensión detecta el chat y comienza a capt
 - Los mensajes se almacenan solo en memoria (se pierden al cerrar OBS)
 - Se limpian automaticamente al reiniciar OBS y conectarlo con la extensión del navegador
 
+#### Uso responsable de la IA
+
+> Este proyecto ha sido construido en su totalidad utilizando inteligencia artificial, siendo supervisado y controlado por humanos de verdad.
